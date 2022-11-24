@@ -1,0 +1,21 @@
+# files
+_draft*
+tmp.py
+tmp_*
+
+# directories
+__pycache__/
+.vscode/
+.experimental*/
+figures/
+**/input/custom*.md
+**/output/*
+**/output/*.csv
+notes/
+.ipynb_checkpoints/
+_docs/
+tmp/
+
+# file extensions
+*.eps
+fig*.pdf
